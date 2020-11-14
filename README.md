@@ -37,6 +37,6 @@ nano /etc/resolv.conf
 ```
 ![1.3](./Images/1/1.3.png)
 * Untuk mencoba koneksi DNS, lakukan ping domain semerut01.pw dengan melakukan perintah berikut pada client GRESIK dan SIDOARJO :
-```
+`
 ping semerut01.pw
-```
+`
