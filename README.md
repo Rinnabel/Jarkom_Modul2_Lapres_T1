@@ -9,7 +9,7 @@ Asisten:
 **Arino Jenynof** `[05111740000096]`  
 
 Penguji:  
-*Ismail Arifin** `[05111740007007]`  
+**Ismail Arifin** `[05111740007007]`  
 
 
 
