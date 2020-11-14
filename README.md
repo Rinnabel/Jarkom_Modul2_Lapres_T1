@@ -13,4 +13,10 @@ Penguji:
 
 
 
-### 1. 
+### 1. Membuat sebuah website utama dengan alamat http://semeruyyy.pw
+Mengikuti langkah-langkah yang sudah dijelaskan di modul 2
+* Buka MALANG dan update package lists dengan menjalankan command : `apt-get update`
+* Instal aplikasi bind9 pada Malang dengan perintah : `apt-get install bind9 -y`
+* Lakukan perintah pada MALANG : ` nano /etc/bind/named.conf.local`
+* Lakukan konfigurasi untuk domain semerut01.pw
+![1.1](./Images/1/1.1.png)  
