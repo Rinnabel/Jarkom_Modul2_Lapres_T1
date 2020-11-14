@@ -37,6 +37,14 @@ nano /etc/resolv.conf
 ```
 ![1.3](./Images/1/1.3.png)
 * Untuk mencoba koneksi DNS, lakukan ping domain semerut01.pw dengan melakukan perintah berikut pada client GRESIK dan SIDOARJO :
-`
+```
 ping semerut01.pw
-`
+```
+![1.4](./Images/1/1.4.png)
+
+### 2. Buat alias http://www.semeruyyy.pw
+* Buka file semerut.pw pada server MALANG dan tambahkan konfigurasi seperti pada gambar berikut:
+![2.1](./Images/2/2.1.png)
+* Restart bind9 dengan perintah : `service bind9 restart`
+* Lalu cek di GRESIK dengan : `ping www.semerut01.pw`
+![2.2](./Images/2/2.2.png)
