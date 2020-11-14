@@ -10,3 +10,7 @@ Asisten:
 
 Penguji:  
 *Ismail Arifin** `[05111740007007]`  
+
+
+
+### 1. 
