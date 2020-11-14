@@ -70,6 +70,7 @@ Mengikuti langkah-langkah yang sudah dijelaskan di modul 2
     cp /etc/bind/db.local /etc/bind/jarkom/73.151.10.in-addr.arpa
     ```
 * Edit file 73.151.10.in-addr.arpa
+
 ![4.2](./Images/4/4.2.png)
 * Restart bind9 dengan perintah : `service bind9 restart`
 
